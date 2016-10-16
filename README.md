@@ -1,3 +1,2 @@
-# Christmas-snow-
-
-Inspired by @TheCodePlayer HTML 5 snow effect with a xmas twist
+# Starry Night
+Inspired by @TheCodePlayer HTML 5 snow effect with a galaxy effect
